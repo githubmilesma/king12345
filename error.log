@@ -1,0 +1,140 @@
+2020-01-10 11:35:08	Traceback (most recent call last):
+  File "D:/projects/king12345/common.py", line 15, in accept_alert
+    driver.switch_to.alert.accept()
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    alert.text
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\common\alert.py", line 67, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=79.0.3945.88)
+
+2020-01-10 11:35:12	Traceback (most recent call last):
+  File "D:/projects/king12345/common.py", line 15, in accept_alert
+    driver.switch_to.alert.accept()
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    alert.text
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\common\alert.py", line 67, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=79.0.3945.88)
+
+2020-01-10 11:40:01	Traceback (most recent call last):
+  File "D:/projects/king12345/common.py", line 18, in accept_alert
+    driver.switch_to.alert.accept()
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    alert.text
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\common\alert.py", line 67, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=79.0.3945.88)
+
+2020-01-10 11:40:04	Traceback (most recent call last):
+  File "D:/projects/king12345/common.py", line 18, in accept_alert
+    driver.switch_to.alert.accept()
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    alert.text
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\common\alert.py", line 67, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=79.0.3945.88)
+
+2020-01-10 11:53:00	Traceback (most recent call last):
+  File "D:/projects/king12345/common.py", line 18, in accept_alert
+    driver.switch_to.alert.accept()
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    alert.text
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\common\alert.py", line 67, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=79.0.3945.88)
+
+2020-01-10 11:53:03	Traceback (most recent call last):
+  File "D:/projects/king12345/common.py", line 18, in accept_alert
+    driver.switch_to.alert.accept()
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    alert.text
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\common\alert.py", line 67, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=79.0.3945.88)
+
+2020-01-10 11:53:32	Traceback (most recent call last):
+  File "D:/projects/king12345/common.py", line 18, in accept_alert
+    driver.switch_to.alert.accept()
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    alert.text
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\common\alert.py", line 67, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=79.0.3945.88)
+
+2020-01-10 11:53:36	Traceback (most recent call last):
+  File "D:/projects/king12345/common.py", line 18, in accept_alert
+    driver.switch_to.alert.accept()
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    alert.text
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\common\alert.py", line 67, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=79.0.3945.88)
+
+2020-01-10 12:04:51	Traceback (most recent call last):
+  File "D:/projects/king12345/common.py", line 19, in accept_alert
+    driver.switch_to.alert.accept()
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    alert.text
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\common\alert.py", line 67, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=79.0.3945.88)
+
+2020-01-10 12:04:57	Traceback (most recent call last):
+  File "D:/projects/king12345/common.py", line 19, in accept_alert
+    driver.switch_to.alert.accept()
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 55, in alert
+    alert.text
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\common\alert.py", line 67, in text
+    return self.driver.execute(Command.W3C_GET_ALERT_TEXT)["value"]
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoAlertPresentException: Message: no such alert
+  (Session info: chrome=79.0.3945.88)
+
